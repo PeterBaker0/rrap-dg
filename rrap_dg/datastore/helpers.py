@@ -5,7 +5,6 @@ from asyncio import run
 
 import typer
 
-
 # Provena Config
 # Replace the domain with the domain of your Provena instance
 PROVENA_DOMAIN = "mds.gbrrestoration.org"

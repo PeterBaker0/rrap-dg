@@ -1,0 +1,16 @@
+numpy
+pandas
+geopandas
+scipy
+xarray
+rasterio
+rioxarray
+netCDF4
+typer
+rich
+tqdm
+juliacall
+juliapkg
+datapackage
+mdsisclienttools
+provenaclient==0.6.0
